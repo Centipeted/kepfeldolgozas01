@@ -21,20 +21,20 @@ A program először bekéri a az átalakítandó kép elérési útvonalát. Ez 
 
 ### Néhány példa az eredményről:
 
-<img src="nature.png" alt="palette" width="200"/>
-<img src="nature_euclidean.png" style="image-rendering: pixelated; width: 200px; height: 200px;">
+| <img src="nature.png" width="200"/> | <img src="nature_euclidean.png" width="200"/> |
+| --- | --- |
 
-resolution: 64x64, interpolation: euclidean
+Resolution: 64x64, Interpolation: Euclidean
 
-<img src="cat.png" alt="palette" width="200"/>
-<img src="cat_euclidean.png" style="image-rendering: pixelated; width: 200px; height: 200px;">
+| <img src="cat.png" width="200"/> | <img src="cat_euclidean.png" width="200"/> |
+| --- | --- |
 
-resolution: 64x64, interpolation: linear
+Resolution: 64x64, Interpolation: Linear
 
-<img src="tux.png" alt="palette" width="200"/>
-<img src="tux_euclidean.png" style="image-rendering: pixelated; width: 200px; height: 200px;">
+| <img src="tux.png" width="200"/> | <img src="tux_euclidean.png" width="200"/> |
+| --- | --- |
 
-resolution: 32x32, interpolation: euclidean
+Resolution: 32x32, Interpolation: Euclidean
 
 
 ##### Milyen jellegű képből lesz jó ikon?
