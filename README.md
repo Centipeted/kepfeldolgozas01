@@ -26,7 +26,7 @@ A program először bekéri a az átalakítandó kép elérési útvonalát. Ez 
 
 Resolution: 64x64, Interpolation: Euclidean
 
-| <img src="cat.png" width="200"/> | <img src="cat_euclidean.png" width="200"/> |
+| <img src="cat.png" width="200"/> | <img src="cat_linear.png" width="200"/> |
 | --- | --- |
 
 Resolution: 64x64, Interpolation: Linear
